@@ -1,9 +1,9 @@
 # Machine-Learning
 This repo is a compilation of ML models I've built. 
 
-## Glossary of Notebooks & Their Models
+### Glossary of Notebooks & Their Models
 
-### 🌊 Flood
+#### 🌊 Flood
 - Classifiers
     - Random Forest
     - SVM
@@ -13,7 +13,7 @@ This repo is a compilation of ML models I've built.
     - Logistic Regression
     - GaussianNB       
 
-### 🔥 Wildfire
+#### 🔥 Wildfire
 - Regression
     - Random Forest
     - Linear Regression
